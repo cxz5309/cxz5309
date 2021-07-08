@@ -4,30 +4,30 @@
 🚩 NodeJS 공부 마무리, Java Spring 공부 시작하려고 합니다.
 👯 동료구함
 
-<span>- Front :</span>
+- Front :</br>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
 
-<span>- Back :</span>
+- Back :</br>
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white"/></span>
 
-<span>- Game :</span>
+- Game :</br>
 <span><img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.NET&logoColor=white"/><span>
 <span><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/><span>
 
-<span>- Database :</span>
+- Database :</br>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></span>
 
-<span>- Communication :</span>
+- Communication :</br>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white"/></span>
   
- <span>- Contact :</span>
+- Contact :</br>
 <span><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a></span> 
  : cxz5309@gmail.com
   
