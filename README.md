@@ -28,7 +28,7 @@
 <span><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white"/></span>
   
 - Contact :</br>
-<span><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a></span> 
+<span><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></span> 
  : cxz5309@gmail.com
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxz5309)](https://github.com/cxz5309/github-readme-stats)
