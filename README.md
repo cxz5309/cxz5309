@@ -1,8 +1,8 @@
-### 안녕하세요 김영우입니다 👋
-
-🌱 게임쪽에 있다가 더 공부하고 싶어서 현재 웹공부중입니다.
-🚩 NodeJS 공부 마무리, Java Spring 공부 시작하려고 합니다.
-👯 동료구함
+### 안녕하세요 김영우입니다 👋  
+</br>
+🌱 게임쪽에 있다가 더 공부하고 싶어서 현재 웹공부중입니다.</br>
+🚩 NodeJS 공부 마무리, Java Spring 공부 시작하려고 합니다.</br>
+👯 동료구함</br>
 
 - Front :</br>
 <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=white"/></span>
