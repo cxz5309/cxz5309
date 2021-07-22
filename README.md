@@ -32,7 +32,6 @@
  : cxz5309@gmail.com
   
 [![Young's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxz5309)](https://github.com/cxz5309/github-readme-stats)
-[![Young's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cxz5309&langs_count=8)](https://github.com/cxz5309/github-readme-stats)
 
 <!--
 **cxz5309/cxz5309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
