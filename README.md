@@ -1,6 +1,7 @@
 ### 안녕하세요 김영우입니다 👋  
 
 
+<!--
 |Name | Tech |
 |---|---|
 |Language|  |
@@ -10,8 +11,7 @@
 |DB||
 |Version Control|  |
 |Contact| cxz5309@gmail.com |
-  
-
+-->
 <!--
 **cxz5309/cxz5309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
